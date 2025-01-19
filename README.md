@@ -1,6 +1,6 @@
 # Road Accidents
 ## Overview
-This project involves analyzing road accidents data to identify patterns, trends, and insights that can help improve road safety. The analysis explores key variables such as road type, vehicle type, location, light conditions, and casualty type.
+This project involves analyzing road accident data to gain insights that can help improve road safety. The analysis explores key variables such as road type, vehicle type, location, light conditions, and casualty type.
 
 ## Dataset Used
 - [Dataset](https://github.com/Shaz-Techie/Road-Accidents/blob/main/Road%20Accident%20Data.xlsx)
